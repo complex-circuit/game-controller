@@ -1,3 +1,7 @@
+Arduino used here
+-----------------
+Leonardo
+
 Wiring
 ======
 
